@@ -1,1 +1,1 @@
-# Aurdino-with-lcd-
+### Arduino LCD Text Display Program Documentation
